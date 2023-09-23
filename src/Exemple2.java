@@ -10,6 +10,7 @@ public class Exemple2 {
 
         System.out.println("Переменная myVar2 содержет: ");
         System.out.print(myVar2);
+//        Ltkf. ghjcnst rjvtyns lkz ghjdthbr
 
     }
 }
